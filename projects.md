@@ -15,7 +15,7 @@ I'm also available for consulting, so feel free to [contact me via email](mailto
 
 This is my MEng Project
 
-image: "/img/JAMKIT/onaur5.JPG"
+![UR5 Mount](/img/JAMKIT/onaur5.JPG){: .mx-auto.d-block :}
 
 ## Mammal Inspired Legged Soft Robot - 2019
 
