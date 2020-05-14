@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: This is a lil short version of me
-bigimg: 
+cover-img: 
   - "/img/big-imgs/meinHK.JPG" : "Hong Kong, 2019"
 ---
 
