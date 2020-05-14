@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is a lil short version of me
 ---
 
 Hi, I'm Sami. I'm a student attending my final year for a Robotics Masters of Engineering at the Queen Mary University of London, currently being advised by <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Dr. Kaspar Althoefer</a> and <a href="http://lorejam.blogspot.com/">Dr. Lorenzo Jamone</a>.
@@ -12,10 +12,10 @@ I am currently working on a low cost robotic hand design utilising 3 axis tactil
 
 ### My history
 
-- SLAM implementations on mobile robots
+- SLAM implementations on mobile robots.
 - Soft mobile robots and actuators.
 
 
-###Professional Acitivities
+### Professional Acitivities
 -President of the [Artificial Intelligence and Robotics Society at the Queen Mary University of London](http://qmrs.co.uk) for the second consecutive year.
--Robotics Automation Engineer - Ultima Forma Limited 2019
+-Robotics Automation Engineer - Ultima Forma Limited 2019.
