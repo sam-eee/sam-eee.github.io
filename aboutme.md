@@ -2,7 +2,8 @@
 layout: page
 title: About me
 subtitle: This is a lil short version of me
-cover-img : "/img/big-imgs/meinHK.JPG"
+bigimg: 
+  - "/img/big-imgs/meinHK.JPG" : "Hong Kong, 2019"
 ---
 
 Hi, I'm Sami. I'm a student attending my final year for a Robotics Masters of Engineering at the Queen Mary University of London, currently being advised by <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Dr. Kaspar Althoefer</a> and <a href="http://lorejam.blogspot.com/">Dr. Lorenzo Jamone</a>.
