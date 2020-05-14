@@ -4,13 +4,18 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Sami. I'm a student attending my final year for a Robotics Masters of Engineering at the Queen Mary University of London, currently being advised by <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Dr. Kaspar Althoefer</a> and <a href="http://lorejam.blogspot.com/">Dr. Lorenzo Jamone</a>.
+My research interest is in the design and implementation of innovative robotics systems, ranging from the electro-mechanical design to the control and systems engineering. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+I am currently working on a low cost robotic hand design utilising 3 axis tactile sensors to provide reliable in-hand manipulation.  [Github](https://github.com/sam-eee/jamkit_robot_hand)
 
-### my history
+### My history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- SLAM implementations on mobile robots
+- Soft mobile robots and actuators.
+
+
+###Professional Acitivities
+-President of the [Artificial Intelligence and Robotics Society at the Queen Mary University of London](http://qmrs.co.uk) for the second consecutive year.
+-Robotics Automation Engineer - Ultima Forma Limited 2019
