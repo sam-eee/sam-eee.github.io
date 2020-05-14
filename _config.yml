@@ -12,7 +12,7 @@ author: Sami Deiri
 # --- List of links in the navigation bar --- #
 
 navbar-links:  
-  Home : ""
+  Home : "index.html"
   Resume : "CV.pdf"
   Projects : "projects"
   About Me / Contact: "aboutme"
