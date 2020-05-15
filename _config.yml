@@ -204,6 +204,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - postunpublished/
+  
 
 plugins:
   - jekyll-paginate
