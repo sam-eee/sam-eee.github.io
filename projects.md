@@ -41,6 +41,8 @@ This is my MEng Project, where along with a team, we design and build a dexterou
 ## Mammal Inspired Legged Soft Robot
 ![Walking Soft robot](/img/projects/hexsoftmobilerobot/pictureofrobot.png){: .mx-auto.d-block :}
 
-This project investigates a proof of concept approach to the design of a textile based leg that is primarily uses easily available
+Concept design of a textile based leg that primarily uses easily available
 techniques  and  materials.  A  linear  actuator  using  the  transformation  of  an  object  from  a  2d  area  to  a  3d  volumetric  object  is
 investigated and tested to produce an operational leg that is used to create a hexapod robot. 
+
+Check out the project [here](_posts\2019-06-28-leggedsoftrobot.md)
