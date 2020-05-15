@@ -19,6 +19,9 @@ cover-img:
   - "/img/projects/misc/zdesk.png" : "Custom Desk for Client, 2017"
   - "/img/projects/misc/lidarmodel.png" : "Mobile Robot Control and Planning - LIDAR, 2018"
   - "/img/projects/misc/robotwarsarena.png" : "Robot Wars Arena - Antweight, 2018"
+  - "/img/big-imgs/conference.jpg" : "Undergraduate Research Conference, 2019"
+  - "/img/big-imgs/RoboticsSociety.jpg" : "QMUL Welcome Fair, 2019"
+  - "/img/big-imgs/workingonrobot.jpg" : "QMUL ARQ Lab, 2019"
 
 ---
 
