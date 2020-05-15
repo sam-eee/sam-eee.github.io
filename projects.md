@@ -16,7 +16,7 @@ cover-img:
   - "/img/projects/pantographrobot/Assembly exploded 1.JPG" : "Pantograph Robot, 2018"
   - "/img/projects/pantographrobot/Exploded Base.JPG" : "Pantograph Robot, 2018"
   - "/img/projects/misc/robotarm.png" : "Moveo Robot arm, 2018"
-  - "/img/projects/misc/zdesk.png" : "Custom Desk for Client, 2017"
+  - "/img/projects/misc/zdesk.PNG" : "Custom Desk for Client, 2017"
   - "/img/projects/misc/lidarmodel.png" : "Mobile Robot Control and Planning - LIDAR, 2018"
   - "/img/projects/misc/robotwarsarena.png" : "Robot Wars Arena - Antweight, 2018"
   - "/img/big-imgs/conference.jpg" : "Undergraduate Research Conference, 2019"
