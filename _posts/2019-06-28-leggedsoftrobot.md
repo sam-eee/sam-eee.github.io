@@ -19,7 +19,7 @@ This project was done under Dr Kaspar Althoefer's supervision.
 
 The legged robot system developed is a proof of concept that has proven that such a system is capable of walking on a relatively flat surface without much trouble, which is successful at achieving the aims set initially. It does this with an extremely low cost in terms of the structure and actuator in comparison to other soft robots utilising materials such as silicone and moulding, and traditional robots utilising discrete joint systems. The system is also achieving its goal of being easily manufactured with materials and components that are easily available and low cost, with the exception being the parts involved in the control system such as the pressure regulator or the custom power distribution board. 
 
-![Walking Robot Sped Up](/img/gif/walkingfast.gif){: .mx-auto.d-block :}
+![Walking Robot Sped Up](/img/gif/walkingfast.GIF){: .mx-auto.d-block :}
 
 
 In this design, the robot is capable of functioning using small binary valves that are cheaper, lighter and more energy efficient than the regulators for sections such as the actuators, and using a single regulator that would ensure that the pressures entering all the actuators and/or legs are below the maximum threshold. This would therefore lower the number of regulators needed from 6 to 2, with 6 binary valves used for the group control. 
