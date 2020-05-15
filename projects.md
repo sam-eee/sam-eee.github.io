@@ -16,12 +16,12 @@ I'm also available for consulting, so feel free to [contact me via email](mailto
 
 ## JAMKIT Biomimetic Robot Hand with Soft Tactile Sensing - 2020
 
-This is my MEng Project
+![UR5 Mount](/img/projects/jamkit/onaur5.JPG){: .mx-auto.d-block :}
 
-![UR5 Mount](/img/jamkit/onaur5.JPG){: .mx-auto.d-block :}
+This is my MEng Project, where along with a team, we design and build a dexterous, low cost, and 3D printable robot hand with an embedded tactile sensor suited for grasping and manipulation.
 
 ## Mammal Inspired Legged Soft Robot - 2019
-![UR5 Mount](/img/jamkit/onaur5.JPG){: .mx-auto.d-block :}
+![UR5 Mount](/img/projects/hexsoftmobilerobot/pictureofrobot.png){: .mx-auto.d-block :}
 
 This project investigates a proof of concept approach to the design of a textile based leg that is primarily uses easily available
 techniques  and  materials.  A  linear  actuator  using  the  transformation  of  an  object  from  a  2d  area  to  a  3d  volumetric  object  is
