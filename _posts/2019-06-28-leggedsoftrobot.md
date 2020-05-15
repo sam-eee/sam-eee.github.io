@@ -7,6 +7,7 @@ comments: true
 cover-img:
   - "/img/big-imgs/workingonrobot.jpg"
 image: "/img/projects/hexsoftmobilerobot/pictureofrobot.png"
+show-avatar: false
 
 ---
 This project investigated a proof of concept approach to the design of a textile based leg that is primarily uses easily available techniques and materials. A linear actuator using the transformation of an object from a 2d area to a 3d volumetric object is investigated and tested to produce an operational leg that is used to create a hexapod robot.
