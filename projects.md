@@ -10,6 +10,13 @@ cover-img:
   - "/img/projects/jamkit/explode1.jpg" : "JAMKIT Robot Hand Project, 2020"
   - "/img/projects/jamkit/full assem front.png" : "JAMKIT Robot Hand Project, 2020"
   - "/img/projects/hexsoftmobilerobot/sideview.png" : "Soft Mobile Hex Robot, 2019"
+  - "/img/projects/pantographrobot/Assembled.JPG" : "Pantograph Robot, 2018"
+  - "/img/projects/pantographrobot/Assembly exploded 1.JPG" : "Pantograph Robot, 2018"
+  - "/img/projects/pantographrobot/Exploded Base.JPG" : "Pantograph Robot, 2018"
+  - "/img/projects/misc/robotarm.png" : "Moveo Robot arm, 2018"
+  - "/img/projects/misc/zdesk.png" : "Custom Desk for Client, 2017"
+  - "/img/projects/misc/lidarmodel.png" : "Mobile Robot Control and Planning - LIDAR, 2018"
+  - "/img/projects/misc/robotwarsarena.png" : "Robot Wars Arena - Antweight, 2018"
 
 ---
 
