@@ -6,7 +6,7 @@ tags: [robotics, society, undergraduate, QMUL]
 comments: true
 cover-img:
   - "/img/big-imgs/RoboticsSociety.jpg"
-image: "/img/projects/hexsoftmobilerobot/RoboticsSociety.png"
+image: "/img/big-imgs/RoboticsSociety.jpg"
 show-avatar: false
 
 ---
