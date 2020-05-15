@@ -45,4 +45,5 @@ Concept design of a textile based leg that primarily uses easily available
 techniques  and  materials.  A  linear  actuator  using  the  transformation  of  an  object  from  a  2d  area  to  a  3d  volumetric  object  is
 investigated and tested to produce an operational leg that is used to create a hexapod robot. 
 
-Check out the project [here](_posts\2019-06-28-leggedsoftrobot.md)
+Check out the project [here](_posts/2019-06-28-leggedsoftrobot.md)
+
