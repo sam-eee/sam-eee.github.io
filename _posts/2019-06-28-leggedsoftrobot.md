@@ -4,13 +4,25 @@ title: Design and Manufacture of a Legged Soft Robot
 subtitle: This project was submitted as my 3rd year project as part of my undergraduate degree, QMUL 
 tags: [robotics, design, soft robot, undergraduate, QMUL]
 comments: true
+cover-img:
+  - "/img/big-imgs/workingonrobot.jpg"
+  - "/img/big-imgs/conference.jpg" : "UK Undergraduate Research Conference, 2019"
+  - "/img/projects/hexsoftmobilerobot/sideview.png" 
+  - "/img/projects/hexsoftmobilerobot/pictureofrobot.png"
+
+
 ---
 This project investigated a proof of concept approach to the design of a textile based leg that is primarily uses easily available techniques and materials. A linear actuator using the transformation of an object from a 2d area to a 3d volumetric object is investigated and tested to produce an operational leg that is used to create a hexapod robot.
 
 This project was done under Dr Kaspar Althoefer's supervision.
 
 
-The legged robot system developed is a proof of concept that has proven that such a system is capable of walking on a relatively flat surface without much trouble, which is successful at achieving the aims set initially. It does this with an extremely low cost in terms of the structure and actuator in comparison to other soft robots utilising materials such as silicone and moulding, and traditional robots utilising discrete joint systems. The system is also achieving its goal of being easily manufactured with materials and components that are easily available and low cost, with the exception being the parts involved in the control system such as the pressure regulator or the custom power distribution board. In this design, the robot is capable of functioning using small binary valves that are cheaper, lighter and more energy efficient than the regulators for sections such as the actuators, and using a single regulator that would ensure that the pressures entering all the actuators and/or legs are below the maximum threshold. This would therefore lower the number of regulators needed from 6 to 2, with 6 binary valves used for the group control. 
+The legged robot system developed is a proof of concept that has proven that such a system is capable of walking on a relatively flat surface without much trouble, which is successful at achieving the aims set initially. It does this with an extremely low cost in terms of the structure and actuator in comparison to other soft robots utilising materials such as silicone and moulding, and traditional robots utilising discrete joint systems. The system is also achieving its goal of being easily manufactured with materials and components that are easily available and low cost, with the exception being the parts involved in the control system such as the pressure regulator or the custom power distribution board. 
+
+![Walking Robot Sped Up](/img/gif/walkingfast.gif){: .mx-auto.d-block :}
+
+
+In this design, the robot is capable of functioning using small binary valves that are cheaper, lighter and more energy efficient than the regulators for sections such as the actuators, and using a single regulator that would ensure that the pressures entering all the actuators and/or legs are below the maximum threshold. This would therefore lower the number of regulators needed from 6 to 2, with 6 binary valves used for the group control. 
 
 ![UR5 Mount](/img/projects/hexsoftmobilerobot/pictureofrobot.png){: .mx-auto.d-block :}
 
