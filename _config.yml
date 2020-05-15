@@ -13,9 +13,10 @@ author: Sami Deiri
 
 navbar-links:  
   Home : "https://sdeiri.com"
-  Resume : "CV.pdf"
   Projects : "projects"
   About Me : "aboutme"
+  Resume : "CV.pdf"
+
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
