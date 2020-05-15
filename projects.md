@@ -5,6 +5,12 @@ subtitle: What's been eating away my free time
 cover-img:
   - "/img/projects/jamkit/onaur5.JPG" : "JAMKIT Robot Hand Project, 2020"
   - "/img/projects/jamkit/wireassembly.png" : "JAMKIT Robot Hand Project, 2020"
+  - "/img/projects/hexsoftmobilerobot/pictureofrobot.png" : "Soft Mobile Hex Robot, 2019"
+  - "/img/projects/jamkit/explodelink.png" : "JAMKIT Robot Hand Project, 2020"
+  - "/img/projects/jamkit/explode1.jpg" : "JAMKIT Robot Hand Project, 2020"
+  - "/img/projects/jamkit/full assem front.png" : "JAMKIT Robot Hand Project, 2020"
+  - "/img/projects/hexsoftmobilerobot/sideview.png" : "Soft Mobile Hex Robot, 2019"
+
 ---
 
 This is a collection of some personal and university projects I've worked. Anything that is not browser-friendly will not make the cut :(
