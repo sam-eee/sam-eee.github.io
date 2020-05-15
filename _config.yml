@@ -15,7 +15,7 @@ navbar-links:
   Home : "https://sdeiri.com"
   Resume : "CV.pdf"
   Projects : "projects"
-  About Me / Contact: "aboutme"
+  About Me : "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
