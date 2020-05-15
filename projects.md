@@ -2,6 +2,9 @@
 layout: page
 title: Projects
 subtitle: What's been eating away my free time
+cover-img:
+  - "/img/projects/jamkit/onaur5.JPG" : "JAMKIT Robot Hand Project, 2020"
+  - "/img/projects/jamkit/wireassembly.png" : "JAMKIT Robot Hand Project, 2020"
 ---
 
 This is a collection of some personal and university projects I've worked. Anything that is not browser-friendly will not make the cut :(
@@ -15,9 +18,10 @@ I'm also available for consulting, so feel free to [contact me via email](mailto
 
 This is my MEng Project
 
-![UR5 Mount](/img/JAMKIT/onaur5.JPG){: .mx-auto.d-block :}
+![UR5 Mount](/img/jamkit/onaur5.JPG){: .mx-auto.d-block :}
 
 ## Mammal Inspired Legged Soft Robot - 2019
+![UR5 Mount](/img/jamkit/onaur5.JPG){: .mx-auto.d-block :}
 
 This project investigates a proof of concept approach to the design of a textile based leg that is primarily uses easily available
 techniques  and  materials.  A  linear  actuator  using  the  transformation  of  an  object  from  a  2d  area  to  a  3d  volumetric  object  is
