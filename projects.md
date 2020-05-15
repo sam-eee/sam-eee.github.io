@@ -32,23 +32,15 @@ I'm also available for consulting, so feel free to [contact me via email](mailto
 
 ---
 
-## JAMKIT Biomimetic Robot Hand with Soft Tactile Sensing - 2020
+## JAMKIT Biomimetic Robot Hand with Soft Tactile Sensing
 
-![UR5 Mount](/img/projects/jamkit/onaur5.JPG){: .mx-auto.d-block :}
+![UR5 Mount](/img/projects/jamkit/full assem front.png){: .mx-auto.d-block :}
 
 This is my MEng Project, where along with a team, we design and build a dexterous, low cost, and 3D printable robot hand with an embedded tactile sensor suited for grasping and manipulation.
 
-## Mammal Inspired Legged Soft Robot - 2019
-![UR5 Mount](/img/projects/hexsoftmobilerobot/pictureofrobot.png){: .mx-auto.d-block :}
+## Mammal Inspired Legged Soft Robot
+![Walking Soft robot](/img/projects/hexsoftmobilerobot/pictureofrobot.png){: .mx-auto.d-block :}
 
 This project investigates a proof of concept approach to the design of a textile based leg that is primarily uses easily available
 techniques  and  materials.  A  linear  actuator  using  the  transformation  of  an  object  from  a  2d  area  to  a  3d  volumetric  object  is
 investigated and tested to produce an operational leg that is used to create a hexapod robot. 
-
-The limitations and strengths of this
-type of leg are discussed, with possible gait patterns, actuation steps, and problems/solutions encountered when developing such
-a leg. The leg demonstrates clear advantages with regard to simplicity, ease of manufacturing, and low price, however there are
-limitations with regards to the materials used in this given they were chosen based on availability rather than optimal properties.
-These  materials  were  sufficient  to  demonstrate  a  working  hexapod  robot  with  a  tripod  gait  pattern  to  minimise  the  number  of
-regulators  used  to  only  6,  and  creating  a  robot  that  can  achieve  an  almost  %50  reduction  in  its  height  and  therefore  external
-volume by deflating the legs.  This project was done under Dr Kaspar Althoefer.
