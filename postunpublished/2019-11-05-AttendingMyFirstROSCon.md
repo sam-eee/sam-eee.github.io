@@ -8,7 +8,7 @@ cover-img:
   - "/img/big-imgs/RoboticsSociety.jpg"
 image: "/img/big-imgs/RoboticsSociety.jpg"
 show-avatar: false
-
+share-img:
 ---
 
 Hello
