@@ -5,7 +5,6 @@ subtitle: This is a lil short version of me
 cover-img:  "/img/big-imgs/mefrance.jpg"
 show-avatar: false
 ---
-LAST BIG MAC IN STRATFORD. 
 
 
 I'm a student attending my final year for a Robotics Masters of Engineering at the Queen Mary University of London, currently being advised by <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Dr. Kaspar Althoefer</a> and <a href="http://lorejam.blogspot.com/">Dr. Lorenzo Jamone</a>.
