@@ -31,6 +31,15 @@ I'm also available for consulting, so feel free to [contact me via email](mailto
 
 
 ---
+## COVID Mask Design and Manufacture
+![Visors for Royal London Hospital](/img/projects/misc/visor){: .mx-auto.d-block :}
+
+
+Worked as part of a team primarily from QMUL to design and manufacture visors for the Royal London Hospital, which ultimately resulted in a final design that is being injection molded. 
+Personally contributed 221 Visors that were used in the Royal London Hospital for emergency response and patient treatment.
+
+Some of the effort coverage by [IEEE Spectrum](https://spectrum.ieee.org/news-from-around-ieee/the-institute/ieee-member-news/ieee-roboticists-3d-printers-ppe-healthcare-workers) and [QMUL.](http://eecs.qmul.ac.uk/news-and-events/news/items/engineers-at-queen-mary-3d-print-protective-equipment-for-covid-19-nhs-workers.html) 
+
 
 ## JAMKIT Biomimetic Robot Hand with Soft Tactile Sensing
 
@@ -47,6 +56,9 @@ investigated and tested to produce an operational leg that is used to create a h
 
 Check out the project [here](_posts/2019-06-28-leggedsoftrobot.md)
 
+## QMUL AI And Robotics Society
+
+
 
 ## Pantograph Robot Arm
 ![Pantograph robot](/img/projects/pantographrobot/Assembled.JPG){: .mx-auto.d-block :}
@@ -54,3 +66,7 @@ Check out the project [here](_posts/2019-06-28-leggedsoftrobot.md)
 Design, build and control of a parallel pantograph robot. The control was performed using NI Labview, implementing forward and inverse kinematics, configuration analysis and singularity avoidance, and  and low level implementation of PID control of the DC motors. 
 
 Check out the project working [here](https://www.youtube.com/watch?v=qvIjNbZlqCU)
+
+---
+
+Also feel free to check my [GitHub](https://github.com/sam-eee/)

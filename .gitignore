@@ -11,3 +11,6 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/sam-eee.github.io/v16/.suo
