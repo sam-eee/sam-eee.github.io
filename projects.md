@@ -36,7 +36,7 @@ I'm also available for consulting, so feel free to [contact me via email](mailto
 
 ![UR5 Mount](/img/projects/jamkit/full assem front.png){: .mx-auto.d-block :}
 
-This is my MEng Project, where along with a team, we design and build a dexterous, low cost, and 3D printable robot hand with an embedded tactile sensor suited for grasping and manipulation.
+This is my MEng Project, where along with a team, we design and build a dexterous, low cost, and 3D printable robot hand with an embedded tactile sensor suited for grasping and manipulation. This project is currently under review and more information will be published soon. 
 
 ## Mammal Inspired Legged Soft Robot
 ![Walking Soft robot](/img/projects/hexsoftmobilerobot/pictureofrobot.png){: .mx-auto.d-block :}
@@ -47,3 +47,10 @@ investigated and tested to produce an operational leg that is used to create a h
 
 Check out the project [here](_posts/2019-06-28-leggedsoftrobot.md)
 
+
+## Pantograph Robot Arm
+![Pantograph robot](/img/projects/pantographrobot/Assembled.JPG){: .mx-auto.d-block :}
+
+Design, build and control of a parallel pantograph robot. The control was performed using NI Labview, implementing forward and inverse kinematics, configuration analysis and singularity avoidance, and  and low level implementation of PID control of the DC motors. 
+
+Check out the project working [here](https://www.youtube.com/watch?v=qvIjNbZlqCU)
