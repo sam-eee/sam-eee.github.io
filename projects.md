@@ -32,7 +32,7 @@ I'm also available for consulting, so feel free to [contact me via email](mailto
 
 ---
 ## COVID Mask Design and Manufacture
-![Visors for Royal London Hospital](/img/projects/misc/visor){: .mx-auto.d-block :}
+![Visors for Royal London Hospital](/img/projects/misc/visor.jpg){: .mx-auto.d-block :}
 
 
 Worked as part of a team primarily from QMUL to design and manufacture visors for the Royal London Hospital, which ultimately resulted in a final design that is being injection molded. 
@@ -58,7 +58,7 @@ Check out the project [here](_posts/2019-06-28-leggedsoftrobot.md)
 
 ## QMUL AI And Robotics Society
 
-
+During my time at the AI and Robotics Society I have 
 
 ## Pantograph Robot Arm
 ![Pantograph robot](/img/projects/pantographrobot/Assembled.JPG){: .mx-auto.d-block :}

@@ -7,7 +7,7 @@ show-avatar: false
 ---
 
 
-I'm a student attending my final year for a Robotics Masters of Engineering at the Queen Mary University of London, currently being advised by <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Dr. Kaspar Althoefer</a> and <a href="http://lorejam.blogspot.com/">Dr. Lorenzo Jamone</a>.
+I've just finished my final year for a Robotics Masters of Engineering at the Queen Mary University of London, currently being advised by <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Dr. Kaspar Althoefer</a> and <a href="http://lorejam.blogspot.com/">Dr. Lorenzo Jamone</a>.
 My research interest is in the design and implementation of innovative robotics systems, ranging from the electro-mechanical design to the control and systems engineering. 
 
 ![What I look like 90% of the time](/img/gif/meincar.gif){: .mx-auto.d-block :}
