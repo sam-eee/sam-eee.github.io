@@ -23,3 +23,4 @@ I am currently working on a low cost robotic hand design utilising 3 axis tactil
 ### Professional Acitivities
 - President of the [Artificial Intelligence and Robotics Society at the Queen Mary University of London](http://qmrs.co.uk) for the second consecutive year.
 - Robotics Automation Engineer - Ultima Forma Limited 2019.
+https://www.sems.qmul.ac.uk/news/5267/robot-hand-team-wins-top-prize-at-ilf
