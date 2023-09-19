@@ -25,6 +25,9 @@ cover-img:
 
 ---
 
+UPDATE -- PAGE REALLLYYY out of date. Will update soon
+
+
 This is a collection of some personal and university projects I've worked. Anything that is not browser-friendly will not make the cut :(
 
 I'm also available for consulting, so feel free to [contact me via email](mailto:sami_deiri@hotmail.com?subject=Hello from sdeiri.com) if you'd like to work together. 
