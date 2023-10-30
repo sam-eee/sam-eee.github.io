@@ -5,6 +5,13 @@ subtitle: This is a lil short version of me
 cover-img:  "/img/big-imgs/mefrance.jpg"
 show-avatar: false
 ---
+The problem with turning my hobby into my career is I can’t seem to figure out what’s just me having fun, and what’s professional development.
+At this point I just try my best to maintain the illusion of a work life balance
+
+
+Currently working at SAGA Robotics on mobile robots
+
+
 
 
 I've just finished my final year for a Robotics Masters of Engineering at the Queen Mary University of London, currently being advised by <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Dr. Kaspar Althoefer</a> and <a href="http://lorejam.blogspot.com/">Dr. Lorenzo Jamone</a>.
